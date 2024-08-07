@@ -2,8 +2,8 @@
     "name": "music-player",
     "version": "0.1.0",
     "private": true,
-    "engine":{
-        "node":"16.x"
+    "engine": {
+        "node": "16.x"
     },
     "dependencies": {
         "@apollo/client": "^3.11.3",
